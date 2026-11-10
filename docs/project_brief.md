@@ -1,4 +1,4 @@
-# Project Brief: Lumora Home Marketing Performance & Acquisition Efficiency Review
+# Project Brief: Lumut Home Marketing Performance & Acquisition Efficiency Review
 
 **Type:** marketing analytics case study (Python, SQL, Power BI)
 **Period analysed:** 1 January 2025 to 31 October 2026 (22 months)
