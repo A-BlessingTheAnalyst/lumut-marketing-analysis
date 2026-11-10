@@ -50,6 +50,7 @@ It is early November 2026. The company is preparing its 2027 marketing plan and 
 4. How strong is seasonality (Black Friday, Christmas), and how should it affect how trends are read?
 
 **B. Budget**
+
 5. How did actual spend compare with planned budget?
 6. Where is money spent with weak return, and where is there evidence that efficient campaigns could take more?
 
