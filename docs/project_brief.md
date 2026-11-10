@@ -1,6 +1,6 @@
 # Project Brief: Lumut Home Marketing Performance & Acquisition Efficiency Review
 
-**Type:** marketing analytics case study (Python, SQL, Power BI)
+**Type:** Marketing analytics case study (Python, SQL, Power BI)
 
 **Period analysed:** 1 January 2025 to 31 October 2026 (22 months)
 
@@ -8,11 +8,11 @@
 
 **Role:** Marketing Performance Analyst
 
-**Data:** synthetic. Lumora Home is a fictional company and the data is built to behave like real ad-platform and e-commerce exports.
+**Data:** Lumut Home is a fictional company and the data is built to behave like real ad-platform and e-commerce exports.
 
 ## 1. Business context
 
-Lumora Home is a direct-to-consumer retailer of home furnishings and decor (sofas and armchairs, rugs, lighting, bedding, storage, decor). It sells online only, to customers in the UK and the US.
+Lumut Home is a direct-to-consumer retailer of home furnishings and decor (sofas and armchairs, rugs, lighting, bedding, storage, decor). It sells online only, to customers in the UK and the US.
 
 Marketing spend is spread across Paid Search (Google Ads, Microsoft Ads, brand and non-brand), Shopping (Google), Paid Social (Meta, TikTok, Pinterest), Display (Google Display Network), Video (YouTube) and Email / CRM (Klaviyo).
 
