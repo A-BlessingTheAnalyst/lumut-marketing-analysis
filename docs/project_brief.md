@@ -55,15 +55,18 @@ It is early November 2026. The company is preparing its 2027 marketing plan and 
 6. Where is money spent with weak return, and where is there evidence that efficient campaigns could take more?
 
 **C. Measurement and trust**
+
 7. Do platform-reported conversions and revenue agree with actual orders? Where and why do they differ?
 8. Can any period or platform be considered unreliable, and what is the evidence?
 9. How does the picture change under first-touch versus last-touch attribution?
 
 **D. Customers**
+
 10. What does it cost to acquire a new customer (CAC) by channel, and how does that compare with first-order value?
 11. Do customers acquired through different channels behave differently afterwards?
 
 **E. Recommendation**
+
 12. What should the business do differently in 2027, what would be tested next, and what can the data not show?
 
 ## 6. Tools
