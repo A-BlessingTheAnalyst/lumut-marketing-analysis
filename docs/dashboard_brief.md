@@ -1,6 +1,8 @@
 # Power BI Dashboard Brief
 
-Build target: a 4-page report that answers the questions in [`findings.md`](findings.md) for a CMO audience. Data: the CSVs in [`powerbi/`](../powerbi/) (already USD-converted and attributed).
+Build target: a 4-page report that answers the questions in [`findings.md`](findings.md) for a CMO audience. 
+
+Data: the CSVs in [`powerbi/`](../powerbi/) (already USD-converted and attributed).
 
 ## Data model (star schema)
 
