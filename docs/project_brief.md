@@ -1,18 +1,14 @@
-# Project Brief: Lumut Home Marketing Performance & Acquisition Efficiency Review
+# Project Brief: Lumora Home Marketing Performance & Acquisition Efficiency Review
 
-**Type:** Marketing analytics case study (Python, SQL, Power BI)
-
+**Type:** marketing analytics case study (Python, SQL, Power BI)
 **Period analysed:** 1 January 2025 to 31 October 2026 (22 months)
-
 **Markets:** United Kingdom (GBP) and United States (USD)
-
 **Role:** Marketing Performance Analyst
-
-**Data:** Lumut Home is a fictional company and the data is built to behave like real ad-platform and e-commerce exports.
+**Data:** synthetic. Lumora Home is a fictional company and the data is built to behave like real ad-platform and e-commerce exports.
 
 ## 1. Business context
 
-Lumut Home is a direct-to-consumer retailer of home furnishings and decor (sofas and armchairs, rugs, lighting, bedding, storage, decor). It sells online only, to customers in the UK and the US.
+Lumora Home is a direct-to-consumer retailer of home furnishings and decor (sofas and armchairs, rugs, lighting, bedding, storage, decor). It sells online only, to customers in the UK and the US.
 
 Marketing spend is spread across Paid Search (Google Ads, Microsoft Ads, brand and non-brand), Shopping (Google), Paid Social (Meta, TikTok, Pinterest), Display (Google Display Network), Video (YouTube) and Email / CRM (Klaviyo).
 
@@ -50,23 +46,19 @@ It is early November 2026. The company is preparing its 2027 marketing plan and 
 4. How strong is seasonality (Black Friday, Christmas), and how should it affect how trends are read?
 
 **B. Budget**
-
 5. How did actual spend compare with planned budget?
 6. Where is money spent with weak return, and where is there evidence that efficient campaigns could take more?
 
 **C. Measurement and trust**
-
 7. Do platform-reported conversions and revenue agree with actual orders? Where and why do they differ?
 8. Can any period or platform be considered unreliable, and what is the evidence?
 9. How does the picture change under first-touch versus last-touch attribution?
 
 **D. Customers**
-
 10. What does it cost to acquire a new customer (CAC) by channel, and how does that compare with first-order value?
 11. Do customers acquired through different channels behave differently afterwards?
 
 **E. Recommendation**
-
 12. What should the business do differently in 2027, what would be tested next, and what can the data not show?
 
 ## 6. Tools

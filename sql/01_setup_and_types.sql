@@ -12,7 +12,7 @@
 -- Run section by section, top to bottom.
 -- ======================================================================
 CREATE DATABASE IF NOT EXISTS lumora;
-USE lumut;
+USE lumora;
 
 -- ----------------------------------------------------------------------
 -- STEP 0. Diagnostic: short code columns should hold exactly 2 characters ('UK', 'US').

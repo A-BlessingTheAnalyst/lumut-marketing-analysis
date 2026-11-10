@@ -1,0 +1,106 @@
+campaign_id,actual_spend,campaign_name,channel,status,planned_budget,budget_missing,currency,pacing
+CMP-0071,4768.69,US_PaidSearch_NonBrand_Bedding_202602,Paid Search,Ended,3000.0,False,USD,1.59
+CMP-0068,7421.71,US_Video_Prospecting_Decor_202601,Video,Ended,5300.0,False,USD,1.4
+CMP-0091,1314.96,UK_PaidSocial_Prospecting_Lighting_202606,Paid Social,Ended,1050.0,False,GBP,1.252
+CMP-0063,13867.89,US_PaidSearch_NonBrand_Spring_202512,Paid Search,Ended,11250.0,False,USD,1.233
+CMP-0111,3729.79,US_PaidSocial_Prospecting_Lighting_202610,Paid Social,Active,3050.0,False,USD,1.223
+CMP-0006,5855.23,US_PaidSearch_NonBrand_Decor_202501,Paid Search,Ended,4800.0,False,USD,1.22
+CMP-0074,7896.17,US_PaidSocial_Prospecting_Spring_202603,Paid Social,Ended,6500.0,False,USD,1.215
+CMP-0105,1391.49,UK_Email_CRM_Decor_202609,Email,Active,1150.0,False,GBP,1.21
+CMP-0032,32501.26,UK_PaidSearch_NonBrand_Decor_202508,Paid Search,Ended,27000.0,False,GBP,1.204
+CMP-0050,14691.84,US_Display_Prospecting_NewArrivals_202510,Display,Ended,12200.0,False,USD,1.204
+CMP-0073,9644.41,UK_PaidSocial_Retargeting_NewArrivals_202602,Paid Social,Ended,8050.0,False,GBP,1.198
+CMP-0085,3209.44,UK_PaidSearch_NonBrand_Summer_202604,Paid Search,Ended,2700.0,False,GBP,1.189
+CMP-0094,3326.78,US_PaidSocial_Prospecting_Winter_202606,Paid Social,Ended,2800.0,False,USD,1.188
+CMP-0047,45206.35,US_PaidSearch_NonBrand_Spring_202510,Paid Search,Ended,38500.0,False,USD,1.174
+CMP-0011,9100.76,US_PaidSearch_NonBrand_Decor_202502,Paid Search,Ended,7750.0,False,USD,1.174
+CMP-0042,18674.23,us paidsocial prospecting spring 202509,Paid Social,Ended,15900.0,False,USD,1.174
+CMP-0066,5851.23,UK_Video_Prospecting_Lighting_202601,Video,Ended,5000.0,False,GBP,1.17
+CMP-0076,54302.26,US_PaidSearch_NonBrand_Sale_202603,Paid Search,Ended,46750.0,False,USD,1.162
+CMP-0055,2086.73,US_PaidSocial_Prospecting_Decor_202510,Paid Social,Ended,1800.0,False,USD,1.159
+CMP-0104,9644.56,US_Video_Prospecting_Sale_202608,Video,Active,8350.0,False,USD,1.155
+CMP-0037,13328.69,US_PaidSearch_NonBrand_Sofas_202508,Paid Search,Ended,11550.0,False,USD,1.154
+CMP-0003,29305.41,US_PaidSearch_Brand_Brand_202501,Paid Search,Active,25450.0,False,USD,1.151
+CMP-0110,2405.99,UK_PaidSearch_NonBrand_Sofas_202609,Paid Search,Active,2100.0,False,GBP,1.146
+CMP-0027,3144.38,UK_PaidSocial_Retargeting_NewArrivals_202507,Paid Social,Ended,2750.0,False,GBP,1.143
+CMP-0039,18215.67,UK_PaidSocial_Prospecting_Rugs_202508,Paid Social,Ended,16000.0,False,GBP,1.138
+CMP-0034,1021.52,uk paidsearch nonbrand sale 202508,Paid Search,Ended,900.0,False,GBP,1.135
+CMP-0009,19667.89,US_Shopping_Shopping_Storage_202502,Shopping,Ended,17500.0,False,USD,1.124
+CMP-0097,3575.6,UK_Video_Prospecting_Storage_202607,Video,Ended,3200.0,False,GBP,1.117
+CMP-0067,21592.41,US_PaidSearch_NonBrand_Sale_202601,Paid Search,Ended,19400.0,False,USD,1.113
+CMP-0035,1163.98,US_PaidSocial_Prospecting_Sofas_202508,Paid Social,Ended,1050.0,False,USD,1.109
+CMP-0108,4685.68,US_Video_Prospecting_Summer_202609,Video,Active,4250.0,False,USD,1.103
+CMP-0015,5225.0,US_PaidSearch_NonBrand_Sofas_202503,Paid Search,Ended,4750.0,False,USD,1.1
+CMP-0092,59931.39,UK_Display_Prospecting_Decor_202606,Display,Ended,54700.0,False,GBP,1.096
+CMP-0004,63236.99,UK_PaidSearch_NonBrand_Rugs_202501,Shopping,Active,57900.0,False,USD,1.092
+CMP-0049,41320.03,US_PaidSocial_Prospecting_Sofas_202510,Paid Social,Ended,38450.0,False,USD,1.075
+CMP-0069,8077.5,US_PaidSocial_Prospecting_Bedding_202601,Paid Social,Ended,7550.0,False,USD,1.07
+CMP-0083,16575.86,US_PaidSearch_NonBrand_Rugs_202604,Paid Search,Ended,15700.0,False,USD,1.056
+CMP-0075,7070.16,US_PaidSocial_Prospecting_Bedding_202603,Paid Social,Ended,6700.0,False,USD,1.055
+CMP-0081,1992.3,US_Display_Prospecting_NewArrivals_202604,Display,Ended,1900.0,False,USD,1.049
+CMP-0010,2762.59,UK_PaidSocial_Prospecting_Rugs_202502,Paid Social,Ended,2650.0,False,GBP,1.042
+CMP-0054,7581.98,UK_Display_Retargeting_AllProducts_202510,Display,Ended,7300.0,False,GBP,1.039
+CMP-0077,12108.81,US_Shopping_Shopping_Sofas_202603,Shopping,Ended,11850.0,False,USD,1.022
+CMP-0002,193281.29,UK_Shopping_Shopping_Sale_202501,Shopping,Active,190400.0,False,GBP,1.015
+CMP-0007,8582.15,us paidsocial prospecting lighting 202501,Paid Social,Ended,8500.0,False,USD,1.01
+CMP-0046,6093.97,UK_PaidSocial_Prospecting_Bedding_202509,Paid Social,Ended,6050.0,False,GBP,1.007
+CMP-0024,2509.23,UK_PaidSocial_Retargeting_Winter_202506,Paid Social,Ended,2500.0,False,GBP,1.004
+CMP-0017,6761.33,UK_PaidSocial_Retargeting_Rugs_202503,Paid Social,Ended,6750.0,False,GBP,1.002
+CMP-0080,9268.34,UK_Display_Prospecting_Rugs_202604,Display,Ended,9300.0,False,GBP,0.997
+CMP-0019,4878.59,US_PaidSearch_NonBrand_Decor_202504,Paid Search,Ended,5000.0,False,USD,0.976
+CMP-0016,33377.41,US_PaidSocial_Prospecting_Bedding_202503,Paid Social,Paused,34800.0,False,USD,0.959
+CMP-0109,6889.05,UK_PaidSearch_NonBrand_Sofas_202609,Paid Social,Active,7200.0,False,USD,0.957
+CMP-0078,11488.16,US_Display_Retargeting_NewArrivals_202603,Display,Ended,12200.0,False,USD,0.942
+CMP-0099,8384.28,US_Display_Prospecting_Sale_202607,Display,Ended,8950.0,False,USD,0.937
+CMP-0089,2791.62,US_Video_Prospecting_Spring_202605,Video,Ended,3000.0,False,USD,0.931
+CMP-0064,2092.66,US_Email_CRM_AllProducts_202512,Email,Ended,2250.0,False,USD,0.93
+CMP-0038,41159.78,us paidsearch nonbrand rugs 202508,Paid Search,Ended,45400.0,False,USD,0.907
+CMP-0041,10141.6,us paidsearch nonbrand winter 202509,Paid Search,Ended,11300.0,False,USD,0.897
+CMP-0023,6844.55,us paidsearch nonbrand decor 202506,Paid Search,Ended,7650.0,False,USD,0.895
+CMP-0102,1726.95,US_PaidSearch_NonBrand_Winter_202608,Paid Search,Ended,1950.0,False,USD,0.886
+CMP-0057,26205.0,UK_PaidSocial_Prospecting_Lighting_202511,Paid Social,Ended,29650.0,False,GBP,0.884
+CMP-0025,35552.85,US_PaidSearch_NonBrand_Spring_202506,Paid Search,Ended,40750.0,False,USD,0.872
+CMP-0101,6461.96,US_PaidSearch_NonBrand_Spring_202608,Paid Search,Paused,7500.0,False,USD,0.862
+CMP-0056,10113.21,UK_PaidSocial_Retargeting_Spring_202511,Paid Social,Ended,11750.0,False,GBP,0.861
+CMP-0013,8173.94,US_PaidSearch_NonBrand_Sale_202503,Paid Search,Ended,9550.0,False,USD,0.856
+CMP-0086,3688.28,UK_Shopping_Shopping_Winter_202605,Shopping,Ended,4350.0,False,GBP,0.848
+CMP-0021,16623.22,UK_PaidSocial_Prospecting_Spring_202505,Paid Social,Ended,19600.0,False,GBP,0.848
+CMP-0093,3258.86,US_PaidSearch_NonBrand_Storage_202606,Paid Search,Ended,3850.0,False,USD,0.846
+CMP-0014,15312.2,US_PaidSearch_NonBrand_Storage_202503,Paid Search,Ended,18250.0,False,USD,0.839
+CMP-0058,18250.74,UK_Shopping_Shopping_Spring_202511,Shopping,Ended,21750.0,False,GBP,0.839
+CMP-0088,8157.34,UK_PaidSearch_NonBrand_NewArrivals_202605,Paid Search,Ended,9750.0,False,GBP,0.837
+CMP-0030,2044.36,UK_PaidSearch_Brand_Brand_202507,Paid Search,Ended,2450.0,False,GBP,0.834
+CMP-0048,956.47,US_PaidSearch_NonBrand_Lighting_202510,Paid Search,Ended,1150.0,False,USD,0.832
+CMP-0022,27226.04,US_PaidSearch_NonBrand_Sofas_202505,Paid Search,Ended,32800.0,False,USD,0.83
+CMP-0065,5719.45,UK_PaidSocial_Prospecting_Bedding_202512,Paid Social,Ended,6900.0,False,GBP,0.829
+CMP-0061,27336.17,UK_PaidSearch_NonBrand_Summer_202512,Paid Search,Ended,33000.0,False,GBP,0.828
+CMP-0026,3785.7,US_PaidSocial_Retargeting_Spring_202506,Paid Social,Ended,4650.0,False,USD,0.814
+CMP-0020,7680.73,UK_PaidSocial_Prospecting_Spring_202505,Paid Search,Ended,9600.0,False,USD,0.8
+CMP-0044,2273.03,UK_PaidSearch_Brand_Brand_202509,Paid Search,Ended,2850.0,False,GBP,0.798
+CMP-0033,237.47,uk email crm rugs 202508,Email,Ended,300.0,False,GBP,0.792
+CMP-0060,14961.38,UK_Shopping_Shopping_Decor_202512,Shopping,Ended,18900.0,False,GBP,0.792
+CMP-0107,2530.77,UK_PaidSocial_Prospecting_Lighting_202609,Paid Social,Active,3200.0,False,GBP,0.791
+CMP-0045,6027.89,us shopping shopping sale 202509,Shopping,Ended,7650.0,False,USD,0.788
+CMP-0062,41718.87,US_PaidSearch_NonBrand_Spring_202512,Paid Search,Ended,52950.0,False,USD,0.788
+CMP-0096,6645.08,UK_Display_Prospecting_Storage_202607,Display,Active,8450.0,False,GBP,0.786
+CMP-0012,666.76,UK_Email_CRM_Storage_202503,Email,Ended,850.0,False,GBP,0.784
+CMP-0100,19515.69,UK_PaidSocial_Prospecting_Summer_202607,Paid Social,Active,24950.0,False,GBP,0.782
+CMP-0052,44028.81,US_PaidSearch_NonBrand_Lighting_202510,Paid Search,Ended,56600.0,False,USD,0.778
+CMP-0072,2987.38,UK_PaidSocial_Prospecting_AllProducts_202602,Paid Social,Ended,3850.0,False,GBP,0.776
+CMP-0008,5463.11,UK_Video_Prospecting_Rugs_202501,Video,Ended,7050.0,False,GBP,0.775
+CMP-0040,22060.39,US_Shopping_Shopping_Lighting_202508,Shopping,Ended,28450.0,False,USD,0.775
+CMP-0029,6123.34,UK_PaidSocial_Prospecting_Decor_202507,Paid Social,Ended,7950.0,False,GBP,0.77
+CMP-0079,1497.82,UK_Email_CRM_Sofas_202604,Email,Ended,1950.0,False,GBP,0.768
+CMP-0005,6216.03,UK_PaidSearch_NonBrand_Rugs_202501,Paid Search,Ended,8100.0,False,GBP,0.767
+CMP-0084,8564.07,US_Shopping_Shopping_Sofas_202604,Shopping,Ended,11400.0,False,USD,0.751
+CMP-0103,6549.05,US_PaidSearch_Brand_Brand_202608,Paid Search,Active,8750.0,False,USD,0.748
+CMP-0028,8934.84,US_PaidSearch_NonBrand_Storage_202507,Paid Search,Ended,11950.0,False,USD,0.748
+CMP-0053,8143.38,UK_Shopping_Shopping_Sofas_202510,Shopping,Ended,10900.0,False,GBP,0.747
+CMP-0043,18720.18,US_PaidSearch_Brand_Brand_202509,Paid Search,Ended,25250.0,False,USD,0.741
+CMP-0098,31640.61,US_PaidSocial_Prospecting_Decor_202607,Paid Social,Ended,42950.0,False,USD,0.737
+CMP-0036,2912.74,UK_PaidSearch_NonBrand_Decor_202508,Paid Search,Ended,3950.0,False,GBP,0.737
+CMP-0087,3494.87,US_PaidSocial_Retargeting_Sale_202605,Paid Social,Ended,4750.0,False,USD,0.736
+CMP-0070,17917.27,UK_Shopping_Shopping_Storage_202601,Shopping,Ended,24500.0,False,GBP,0.731
+CMP-0031,3421.94,US_PaidSocial_Prospecting_Sofas_202508,Paid Social,Ended,4700.0,False,USD,0.728
+CMP-0106,1267.42,US_Display_Retargeting_NewArrivals_202609,Display,Active,1750.0,False,USD,0.724
+CMP-0001,13797.73,UK_PaidSearch_Brand_Brand_202501,Paid Search,Active,19650.0,False,GBP,0.702

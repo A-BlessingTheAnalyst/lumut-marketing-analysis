@@ -1,0 +1,66 @@
+campaign_id,delivery_days,ctr_first_third,ctr_last_third,ctr_change,campaign_name,channel,platform,campaign_type
+CMP-0050,115,0.012,0.0039,-0.6734,US_Display_Prospecting_NewArrivals_202510,Display,Google Display Network,Prospecting
+CMP-0092,123,0.0152,0.0052,-0.6583,UK_Display_Prospecting_Decor_202606,Display,Google Display Network,Prospecting
+CMP-0075,108,0.0156,0.0075,-0.5232,US_PaidSocial_Prospecting_Bedding_202603,Paid Social,Pinterest,Prospecting
+CMP-0016,137,0.015,0.008,-0.4621,US_PaidSocial_Prospecting_Bedding_202503,Paid Social,Meta,Prospecting
+CMP-0021,110,0.0119,0.0073,-0.3897,UK_PaidSocial_Prospecting_Spring_202505,Paid Social,Meta,Prospecting
+CMP-0049,128,0.0107,0.0068,-0.3591,US_PaidSocial_Prospecting_Sofas_202510,Paid Social,Meta,Prospecting
+CMP-0037,76,0.0428,0.032,-0.2529,US_PaidSearch_NonBrand_Sofas_202508,Paid Search,Google Ads,Non-Brand
+CMP-0053,77,0.0166,0.0125,-0.2509,UK_Shopping_Shopping_Sofas_202510,Shopping,Google Ads,Shopping
+CMP-0042,118,0.0114,0.0088,-0.2313,us paidsocial prospecting spring 202509,Paid Social,TikTok,Prospecting
+CMP-0084,75,0.0205,0.018,-0.1242,US_Shopping_Shopping_Sofas_202604,Shopping,Google Ads,Shopping
+CMP-0003,609,0.1137,0.1053,-0.074,US_PaidSearch_Brand_Brand_202501,Paid Search,Google Ads,Brand
+CMP-0026,78,0.0171,0.0161,-0.06,US_PaidSocial_Retargeting_Spring_202506,Paid Social,Meta,Retargeting
+CMP-0002,615,0.0167,0.0158,-0.0591,UK_Shopping_Shopping_Sale_202501,Shopping,Google Ads,Shopping
+CMP-0044,66,0.1444,0.1371,-0.0508,UK_PaidSearch_Brand_Brand_202509,Paid Search,Google Ads,Brand
+CMP-0004,606,0.0181,0.0172,-0.0493,UK_PaidSearch_NonBrand_Rugs_202501,Shopping,Google Ads,Shopping
+CMP-0043,93,0.1332,0.1288,-0.0333,US_PaidSearch_Brand_Brand_202509,Paid Search,Google Ads,Brand
+CMP-0070,113,0.0113,0.0109,-0.0316,UK_Shopping_Shopping_Storage_202601,Shopping,Google Ads,Shopping
+CMP-0022,93,0.041,0.0403,-0.0155,US_PaidSearch_NonBrand_Sofas_202505,Paid Search,Google Ads,Non-Brand
+CMP-0032,122,0.0318,0.0313,-0.0155,UK_PaidSearch_NonBrand_Decor_202508,Paid Search,Microsoft Ads,Non-Brand
+CMP-0083,118,0.0417,0.041,-0.0152,US_PaidSearch_NonBrand_Rugs_202604,Paid Search,Google Ads,Non-Brand
+CMP-0041,77,0.0412,0.0406,-0.0145,us paidsearch nonbrand winter 202509,Paid Search,Google Ads,Non-Brand
+CMP-0100,91,0.0116,0.0115,-0.0131,UK_PaidSocial_Prospecting_Summer_202607,Paid Social,Meta,Prospecting
+CMP-0005,125,0.0386,0.0382,-0.01,UK_PaidSearch_NonBrand_Rugs_202501,Paid Search,Google Ads,Non-Brand
+CMP-0058,110,0.015,0.0149,-0.0065,UK_Shopping_Shopping_Spring_202511,Shopping,Google Ads,Shopping
+CMP-0007,63,0.0108,0.0107,-0.0019,us paidsocial prospecting lighting 202501,Paid Social,Meta,Prospecting
+CMP-0087,85,0.0189,0.0189,0.0021,US_PaidSocial_Retargeting_Sale_202605,Paid Social,Meta,Retargeting
+CMP-0025,117,0.0279,0.0281,0.0047,US_PaidSearch_NonBrand_Spring_202506,Paid Search,Google Ads,Non-Brand
+CMP-0065,91,0.0055,0.0055,0.0047,UK_PaidSocial_Prospecting_Bedding_202512,Paid Social,Pinterest,Prospecting
+CMP-0038,87,0.0495,0.0498,0.0053,us paidsearch nonbrand rugs 202508,Paid Search,Google Ads,Non-Brand
+CMP-0020,85,0.0388,0.0391,0.0078,UK_PaidSocial_Prospecting_Spring_202505,Paid Search,Microsoft Ads,Non-Brand
+CMP-0066,125,0.003,0.003,0.0096,UK_Video_Prospecting_Lighting_202601,Video,YouTube,Prospecting
+CMP-0061,97,0.0362,0.0368,0.0152,UK_PaidSearch_NonBrand_Summer_202512,Paid Search,Google Ads,Non-Brand
+CMP-0063,83,0.0522,0.053,0.0154,US_PaidSearch_NonBrand_Spring_202512,Paid Search,Google Ads,Non-Brand
+CMP-0076,123,0.0382,0.0391,0.0216,US_PaidSearch_NonBrand_Sale_202603,Paid Search,Google Ads,Non-Brand
+CMP-0052,144,0.0519,0.0532,0.0263,US_PaidSearch_NonBrand_Lighting_202510,Paid Search,Google Ads,Non-Brand
+CMP-0024,113,0.0212,0.0219,0.0325,UK_PaidSocial_Retargeting_Winter_202506,Paid Social,Meta,Retargeting
+CMP-0064,85,0.0396,0.0409,0.034,US_Email_CRM_AllProducts_202512,Email,Klaviyo,CRM
+CMP-0014,106,0.0528,0.0548,0.0375,US_PaidSearch_NonBrand_Storage_202503,Paid Search,Google Ads,Non-Brand
+CMP-0001,605,0.1058,0.1105,0.0447,UK_PaidSearch_Brand_Brand_202501,Paid Search,Google Ads,Brand
+CMP-0067,121,0.04,0.0418,0.0466,US_PaidSearch_NonBrand_Sale_202601,Paid Search,Google Ads,Non-Brand
+CMP-0073,109,0.0276,0.029,0.0496,UK_PaidSocial_Retargeting_NewArrivals_202602,Paid Social,Meta,Retargeting
+CMP-0006,71,0.0504,0.053,0.0519,US_PaidSearch_NonBrand_Decor_202501,Paid Search,Google Ads,Non-Brand
+CMP-0082,84,0.0117,0.0124,0.0649,UK_Shopping_Shopping_Lighting_202604,Shopping,Google Ads,Shopping
+CMP-0029,78,0.0162,0.0174,0.0748,UK_PaidSocial_Prospecting_Decor_202507,Paid Social,Meta,Prospecting
+CMP-0077,78,0.014,0.0151,0.075,US_Shopping_Shopping_Sofas_202603,Shopping,Google Ads,Shopping
+CMP-0096,115,0.0122,0.0131,0.0759,UK_Display_Prospecting_Storage_202607,Display,Google Display Network,Prospecting
+CMP-0012,124,0.0298,0.0322,0.08,UK_Email_CRM_Storage_202503,Email,Klaviyo,CRM
+CMP-0071,94,0.0408,0.0443,0.0856,US_PaidSearch_NonBrand_Bedding_202602,Paid Search,Microsoft Ads,Non-Brand
+CMP-0054,98,0.0056,0.0062,0.1156,UK_Display_Retargeting_AllProducts_202510,Display,Google Display Network,Retargeting
+CMP-0047,126,0.0385,0.0433,0.123,US_PaidSearch_NonBrand_Spring_202510,Paid Search,Google Ads,Non-Brand
+CMP-0009,111,0.0214,0.0244,0.1409,US_Shopping_Shopping_Storage_202502,Shopping,Google Ads,Shopping
+CMP-0088,84,0.0352,0.0417,0.1849,UK_PaidSearch_NonBrand_NewArrivals_202605,Paid Search,Google Ads,Non-Brand
+CMP-0062,83,0.039,0.0465,0.1918,US_PaidSearch_NonBrand_Spring_202512,Paid Search,Google Ads,Non-Brand
+CMP-0079,116,0.0287,0.0347,0.2075,UK_Email_CRM_Sofas_202604,Email,Klaviyo,CRM
+CMP-0080,101,0.0037,0.0046,0.2498,UK_Display_Prospecting_Rugs_202604,Display,Google Display Network,Prospecting
+CMP-0057,113,0.0141,0.0178,0.2579,UK_PaidSocial_Prospecting_Lighting_202511,Paid Social,Meta,Prospecting
+CMP-0040,107,0.0157,0.0214,0.3676,US_Shopping_Shopping_Lighting_202508,Shopping,Google Ads,Shopping
+CMP-0090,107,0.0176,0.0244,0.3839,UK_PaidSocial_Prospecting_NewArrivals_202605,Paid Social,Meta,Prospecting
+CMP-0101,67,0.0394,0.0588,0.4929,US_PaidSearch_NonBrand_Spring_202608,Paid Search,Microsoft Ads,Non-Brand
+CMP-0060,95,0.0135,0.0206,0.521,UK_Shopping_Shopping_Decor_202512,Shopping,Google Ads,Shopping
+CMP-0095,98,0.0117,0.0201,0.7213,US_PaidSocial_Prospecting_Bedding_202606,Paid Social,Meta,Prospecting
+CMP-0098,80,0.0134,0.025,0.87,US_PaidSocial_Prospecting_Decor_202607,Paid Social,Meta,Prospecting
+CMP-0078,113,0.006,0.013,1.1781,US_Display_Retargeting_NewArrivals_202603,Display,Google Display Network,Retargeting
+CMP-0068,76,0.0036,0.0097,1.675,US_Video_Prospecting_Decor_202601,Video,YouTube,Prospecting
+CMP-0074,70,0.0092,0.0418,3.5571,US_PaidSocial_Prospecting_Spring_202603,Paid Social,Meta,Prospecting

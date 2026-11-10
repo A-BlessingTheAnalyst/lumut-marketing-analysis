@@ -1,12 +1,12 @@
 -- ======================================================================
 -- 02_kpi_analysis.sql
--- Project : Lumut Home marketing performance review
+-- Project : Lumora Home marketing performance review
 -- Purpose : first KPI view of paid media performance, by channel and currency
--- Author  : Blessing Ajibokun
+-- Author  : [Your Name]
 -- Database: MySQL 8. Tables created by 01_setup_and_types.sql.
 -- Results : each query is followed by its output (also exported to sql/results/).
 -- ======================================================================
-USE lumut;
+USE lumora;
 
 -- ----------------------------------------------------------------------
 -- B1. Row counts (expected 111 / 72,935 / 47,385 / 30,142 / 22)

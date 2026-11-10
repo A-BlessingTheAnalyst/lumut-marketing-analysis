@@ -1,4 +1,4 @@
-# Data Dictionary: Lumut Home
+# Data Dictionary: Lumora Home
 
 ## Where the data comes from
 

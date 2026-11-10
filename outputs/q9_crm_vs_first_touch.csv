@@ -1,0 +1,9 @@
+crm_acquisition_channel,Direct / none,Display,Email,Paid Search,Paid Social,Shopping,Video
+Direct / Organic,0.6,0.02,0.0,0.12,0.1,0.14,0.02
+Display,0.0,0.67,0.0,0.07,0.12,0.12,0.02
+Email,0.0,0.07,0.57,0.07,0.14,0.14,0.02
+Paid Search,0.0,0.02,0.0,0.74,0.1,0.12,0.02
+Paid Social,0.0,0.03,0.0,0.13,0.68,0.14,0.03
+Shopping,0.0,0.02,0.0,0.12,0.1,0.73,0.03
+Unknown,0.07,0.05,0.0,0.39,0.18,0.29,0.02
+Video,0.0,0.02,0.0,0.12,0.09,0.11,0.67
