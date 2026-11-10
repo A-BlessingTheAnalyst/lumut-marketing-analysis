@@ -1,0 +1,32 @@
+#,file,column,issue,rows_affected,action,method,assumption_and_risk
+1,fx_rates_monthly,month,February 2026 missing (21 of 22 months),1,Fix,Added the missing month with the average of the Jan and Mar 2026 rates; added is_estimated=True,Rate moved smoothly between neighbours (they differ by about 0.1%). Risk is small.
+2,campaigns,channel,"Label variants (e.g. 'paid social', 'PPC', 'GDN', 'Search')",16,Fix,Stripped spaces; mapped every variant to one of 6 official channels with a dictionary,Vague labels were resolved using campaign_name and platform as evidence. Risk: low.
+3,campaigns,platform,"Label variants (e.g. 'Facebook Ads', 'AdWords', 'Bing Ads')",16,Fix,Mapped every variant to one of 8 official platforms with a dictionary,Each variant clearly refers to one platform. Risk: low.
+4,campaigns,start_date/end_date,End date earlier than start date,3,Fix + Flag,Swapped the two dates and set dates_swapped=True; verified against real ad dates in Step 3,Dates were entered the wrong way round. Risk: low once verified against ad data.
+5,campaigns,planned_budget,Blank budget,6,Flag,Left blank; added budget_missing=True,A budget cannot be invented. Pacing analysis excludes these campaigns.
+6,campaigns,campaign_name,Names break the naming convention,8,Flag,Added name_follows_convention flag; names unchanged,Names are for people; campaign_id is the key. Risk: none.
+7,campaigns,campaign_name,Same name on different campaign_ids,14,Flag,Added name_duplicated flag,"Never join on campaign_name, always on campaign_id."
+8,ad_performance_daily,campaign_id,Lowercase / spaces in IDs,220,Fix,strip() + upper(),None. Pure formatting.
+9,ad_performance_daily,date,Two date formats (YYYY-MM-DD and DD/MM/YYYY),1473,Fix,Parsed each format separately with explicit formats,DD/MM/YYYY confirmed by rows such as 17/01/2025 and by row order.
+10,ad_performance_daily,device,"Case variants, blanks and 'Unknown'",5994,Fix,Lower-cased then mapped to Mobile/Desktop/Tablet; blank and 'Unknown' both labelled 'Unknown'; kept device_was_blank,Blank and 'Unknown' are assumed to mean the same thing (device not recorded).
+11,ad_performance_daily,currency,"Label variants (gbp, £, usd, $, US$)",2950,Fix,Mapped to GBP/USD; verified against campaigns.currency,Each variant is unambiguous. Amounts are NOT converted here.
+12,ad_performance_daily,(whole row),Exact duplicate rows,584,Remove,drop_duplicates() after standardising,Duplicates would double-count spend.
+13,ad_performance_daily,campaign_id,IDs not found in campaigns (CMP-90xx),109,Flag (quarantine),"Moved to ads_unmapped.csv, not deleted",Cannot be attributed to a campaign. Spend in these rows is reported separately.
+14,ad_performance_daily,spend,Blank spend,364,Flag,spend_flag='missing'; spend_clean left blank,Not filled with 0: that would understate cost.
+15,ad_performance_daily,spend,Negative spend,72,Flag,spend_flag='negative'; kept in spend_clean,Treated as platform credits (net spend). Risk: could be data errors.
+16,ad_performance_daily,spend,Suspected decimal-shift (x100) values,35,Fix + Flag,"Whole-number spend > 8x the campaign median, divided by 100 in spend_clean; original kept in spend",Corrected cost-per-click becomes normal. Risk: a genuine large spend could be wrongly shrunk (rare).
+17,ad_performance_daily,clicks/impressions,Clicks greater than impressions,146,Flag,clicks_exceed_impressions=True; values unchanged,Impossible rows. Exclude from CTR/CVR in analysis.
+18,ad_performance_daily,conversion_value,Blank,219,Flag,conversion_value_missing=True,Not filled; revenue/ROAS for these rows is understated.
+19,customers,country,"Label variants (United Kingdom, USA)",3049,Fix,Mapped to UK / US,Unambiguous.
+20,customers,crm_acquisition_channel,Free-text variants and blanks,4692,Fix,Mapped variants to official channels; blanks labelled 'Unknown','google' is assumed to be Paid Search (it could be Shopping). Risk: small mis-assignment.
+21,customers,signup_date,Dates after the end of the data period (2027-01-01),304,Flag,Set to blank and added signup_date_invalid=True,"True date unknown, so not guessed."
+22,customers,email_hash,Same email on several customer_ids,357,Remove (merge),Kept lowest customer_id per email_hash; orders re-pointed using customer_map,Same email_hash means same person. Customers with a blank email_hash cannot be matched.
+23,orders,order_date,Two date formats,716,Fix,Parsed each format separately,"DD/MM/YYYY, same as ads."
+24,orders,country,"Label variants (GB, U.K., USA, ...)",5719,Fix,Mapped to UK / US; cross-checked against currency,"Verified: GBP orders = UK, USD orders = US."
+25,orders,is_refunded,8 different encodings,11905,Fix,Mapped all to True/False,Y/Yes/TRUE/1 = refunded; N/No/FALSE/0 = not refunded.
+26,orders,order_id,Duplicate rows (same order_id),284,Remove,drop_duplicates(),Exact copies; would double-count revenue.
+27,orders,customer_id,Orders of merged duplicate customers,523,Fix,Re-pointed using customer_map,Same person (shared email_hash).
+28,orders,order_value,Zero or negative order value,94,Flag,order_value_flag = zero / negative; values unchanged,"Could be errors, test orders or adjustments. Exclude from revenue analysis."
+29,orders,customer_id,Blank customer_id,189,Flag,customer_missing=True,Real orders; excluded only from customer-level analysis.
+30,orders,shipping_cost,Blank shipping_cost,1421,Flag (left blank),Left blank,Blank is not 0: free shipping is already stored as 0.
+31,orders,first/last_touch_campaign_id,Blank touch columns,7897,Keep,Added is_direct for last touch,"Blank = no marketing touch recorded. Real information, not an error."

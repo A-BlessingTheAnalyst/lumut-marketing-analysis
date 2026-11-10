@@ -1,0 +1,112 @@
+campaign_id,campaign_name,channel,platform,campaign_type,objective,market,start_date,end_date,planned_budget,currency,status,owner_team
+CMP-0001,UK_PaidSearch_Brand_Brand_202501,Paid Search,Google Ads,Brand,Brand Defence,UK,2025-01-01,2026-10-31,19650.0,GBP,Active,Performance
+CMP-0002,UK_Shopping_Shopping_Sale_202501,Shopping,Google Ads,Shopping,Sales,UK,2025-01-01,2026-10-31,190400.0,GBP,Active,Performance
+CMP-0003,US_PaidSearch_Brand_Brand_202501,Paid Search,Google Ads,Brand,Brand Defence,US,2025-01-01,2026-10-31,25450.0,USD,Active,Performance
+CMP-0004,UK_PaidSearch_NonBrand_Rugs_202501,Shopping,Google Ads,Shopping,Sales,US,2025-01-01,2026-10-31,57900.0,USD,Active,Performance
+CMP-0005,UK_PaidSearch_NonBrand_Rugs_202501,Paid Search,Google Ads,Non-Brand,Customer Acquisition,UK,2025-01-07,2025-05-27,8100.0,GBP,Ended,Performance
+CMP-0006,US_PaidSearch_NonBrand_Decor_202501,Paid Search,AdWords,Non-Brand,Customer Acquisition,US,2025-01-22,2025-04-07,4800.0,USD,Ended,Performance
+CMP-0007,us paidsocial prospecting lighting 202501,Paid Social,Meta,Prospecting,Customer Acquisition,US,2025-01-23,2025-04-02,8500.0,USD,Ended,Social
+CMP-0008,UK_Video_Prospecting_Rugs_202501,Video,Youtube,Prospecting,Customer Acquisition,UK,2025-01-25,2025-03-25,7050.0,GBP,Ended,Brand
+CMP-0009,US_Shopping_Shopping_Storage_202502,Google Shopping,Google Ads,Shopping,Sales,US,2025-02-08,2025-06-04,17500.0,USD,Ended,Performance
+CMP-0010,UK_PaidSocial_Prospecting_Rugs_202502,Paid Social,Pinterest,Prospecting,Customer Acquisition,UK,2025-02-10,2025-03-17,2650.0,GBP,Ended,Social
+CMP-0011,US_PaidSearch_NonBrand_Decor_202502,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-02-20,2025-04-08,7750.0,USD,Ended,Performance
+CMP-0012,UK_Email_CRM_Storage_202503,email,Klaviyo,CRM,Retention,UK,2025-07-14,2025-03-02,850.0,GBP,Ended,CRM
+CMP-0013,US_PaidSearch_NonBrand_Sale_202503,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-03-05,2025-05-03,9550.0,USD,Ended,Performance
+CMP-0014,US_PaidSearch_NonBrand_Storage_202503,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-03-05,2025-06-29,18250.0,USD,Ended,Performance
+CMP-0015,US_PaidSearch_NonBrand_Sofas_202503,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-03-18,2025-04-11,4750.0,USD,Ended,Performance
+CMP-0016,US_PaidSocial_Prospecting_Bedding_202503,Paid Social,Meta,Prospecting,Customer Acquisition,US,2025-03-24,2025-08-12,34800.0,USD,Paused,Social
+CMP-0017,UK_PaidSocial_Retargeting_Rugs_202503,Paid Social,Meta,Retargeting,Conversion,UK,2025-03-29,2025-05-07,6750.0,GBP,Ended,Social
+CMP-0018,UK_PaidSocial_Retargeting_NewArrivals_202503,Social,Meta Ads,Retargeting,Conversion,UK,2025-03-30,2025-05-03,,GBP,Ended,Social
+CMP-0019,US_PaidSearch_NonBrand_Decor_202504,Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-04-07,2025-05-07,5000.0,USD,Ended,Performance
+CMP-0020,UK_PaidSocial_Prospecting_Spring_202505,Paid Search,Microsoft Ads,Non-Brand,Customer Acquisition,US,2025-05-03,2025-08-05,9600.0,USD,Ended,Performance
+CMP-0021,UK_PaidSocial_Prospecting_Spring_202505,paid social,Meta,Prospecting,Customer Acquisition,UK,2025-05-04,2025-09-01,19600.0,GBP,Ended,Social
+CMP-0022,US_PaidSearch_NonBrand_Sofas_202505,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-05-25,2025-09-03,32800.0,USD,Ended,Performance
+CMP-0023,us paidsearch nonbrand decor 202506,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-06-05,2025-07-29,7650.0,USD,Ended,Performance
+CMP-0024,UK_PaidSocial_Retargeting_Winter_202506,Paid Social,Meta,Retargeting,Conversion,UK,2025-06-06,2025-10-06,2500.0,GBP,Ended,Social
+CMP-0025,US_PaidSearch_NonBrand_Spring_202506,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-06-08,2025-10-08,40750.0,USD,Ended,Performance
+CMP-0026,US_PaidSocial_Retargeting_Spring_202506,Paid Social,Facebook Ads,Retargeting,Conversion,US,2025-06-15,2025-09-05,4650.0,USD,Ended,Social
+CMP-0027,UK_PaidSocial_Retargeting_NewArrivals_202507,Paid Social,Meta,Retargeting,Conversion,UK,2025-07-02,2025-08-03,2750.0,GBP,Ended,Social
+CMP-0028,US_PaidSearch_NonBrand_Storage_202507,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-07-06,2025-08-17,11950.0,USD,Ended,Performance
+CMP-0029,UK_PaidSocial_Prospecting_Decor_202507,Paid Social,Meta,Prospecting,Customer Acquisition,UK,2025-07-22,2025-10-17,7950.0,GBP,Ended,Social
+CMP-0030,UK_PaidSearch_Brand_Brand_202507,Paid Search,Google Ads,Brand,Brand Defence,UK,2025-07-24,2025-08-23,2450.0,GBP,Ended,Performance
+CMP-0031,US_PaidSocial_Prospecting_Sofas_202508,Paid Social,Meta,Prospecting,Customer Acquisition,US,2025-08-06,2025-08-31,4700.0,USD,Ended,Social
+CMP-0032,UK_PaidSearch_NonBrand_Decor_202508,Paid Search,Microsoft Ads,Non-Brand,Customer Acquisition,UK,2025-08-08,2025-12-17,27000.0,GBP,Ended,Performance
+CMP-0033,uk email crm rugs 202508,Email,klaviyo,CRM,Retention,UK,2025-08-17,2025-09-12,300.0,GBP,Ended,CRM
+CMP-0034,uk paidsearch nonbrand sale 202508,Paid Search,Microsoft Ads,Non-Brand,Customer Acquisition,UK,2025-08-19,2025-09-18,900.0,GBP,Ended,Performance
+CMP-0035,US_PaidSocial_Prospecting_Sofas_202508,Paid Social,pinterest,Prospecting,Customer Acquisition,US,2025-08-19,2025-09-11,1050.0,USD,Ended,Social
+CMP-0036,UK_PaidSearch_NonBrand_Decor_202508,Paid Search,Google Ads,Non-Brand,Customer Acquisition,UK,2025-08-24,2025-10-10,3950.0,GBP,Ended,Performance
+CMP-0037,US_PaidSearch_NonBrand_Sofas_202508,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-08-25,2025-11-14,11550.0,USD,Ended,Performance
+CMP-0038,us paidsearch nonbrand rugs 202508,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-08-25,2025-11-28,45400.0,USD,Ended,Performance
+CMP-0039,UK_PaidSocial_Prospecting_Rugs_202508,Paid Social,Meta,Prospecting,Customer Acquisition,UK,2025-08-27,2025-10-10,16000.0,GBP,Ended,Social
+CMP-0040,US_Shopping_Shopping_Lighting_202508,Shopping,Google Ads,Shopping,Sales,US,2025-08-29,2025-12-18,28450.0,USD,Ended,Performance
+CMP-0041,us paidsearch nonbrand winter 202509,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-09-10,2025-12-02,11300.0,USD,Ended,Performance
+CMP-0042,us paidsocial prospecting spring 202509,Social,TikTok,Prospecting,Customer Acquisition,US,2025-09-16,2026-01-21,15900.0,USD,Ended,Social
+CMP-0043,US_PaidSearch_Brand_Brand_202509,Search,Google Ads,Brand,Brand Defence,US,2026-01-05,2025-09-25,25250.0,USD,Ended,Performance
+CMP-0044,UK_PaidSearch_Brand_Brand_202509,Paid Search,Google Ads,Brand,Brand Defence,UK,2025-09-27,2025-12-03,2850.0,GBP,Ended,Performance
+CMP-0045,us shopping shopping sale 202509,Shopping,Google Ads,Shopping,Sales,US,2025-09-28,2025-11-19,7650.0,USD,Ended,Performance
+CMP-0046,UK_PaidSocial_Prospecting_Bedding_202509,Paid Social,Facebook Ads,Prospecting,Customer Acquisition,UK,2025-09-30,2025-10-25,6050.0,GBP,Ended,Social
+CMP-0047,US_PaidSearch_NonBrand_Spring_202510,paid search,Google Ads,Non-Brand,Customer Acquisition,US,2025-10-02,2026-02-11,38500.0,USD,Ended,Performance
+CMP-0048,US_PaidSearch_NonBrand_Lighting_202510,Paid Search,Microsoft Ads,Non-Brand,Customer Acquisition,US,2025-10-05,2025-11-24,1150.0,USD,Ended,Performance
+CMP-0049,US_PaidSocial_Prospecting_Sofas_202510,Paid Social,Meta,Prospecting,Customer Acquisition,US,2025-10-05,2026-02-22,38450.0,USD,Ended,Social
+CMP-0050,US_Display_Prospecting_NewArrivals_202510,Display,Google Display,Prospecting,Customer Acquisition,US,2025-10-12,2026-02-14,12200.0,USD,Ended,Programmatic
+CMP-0051,UK_PaidSocial_Prospecting_Sale_202510,Paid Social,Pinterest,Prospecting,Customer Acquisition,UK,2025-10-14,2025-11-18,,GBP,Ended,Social
+CMP-0052,US_PaidSearch_NonBrand_Lighting_202510,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-10-15,2026-03-12,56600.0,USD,Ended,Performance
+CMP-0053,UK_Shopping_Shopping_Sofas_202510,Shopping,Google Ads,Shopping,Sales,UK,2025-10-18,2026-01-08,10900.0,GBP,Ended,Performance
+CMP-0054,UK_Display_Retargeting_AllProducts_202510,Display,Google Display Network,Retargeting,Conversion,UK,2025-10-23,2026-02-04,7300.0,GBP,Ended,Programmatic
+CMP-0055,US_PaidSocial_Prospecting_Decor_202510,Paid Social,Meta,Prospecting,Customer Acquisition,US,2025-10-27,2025-11-20,1800.0,USD,Ended,Social
+CMP-0056,UK_PaidSocial_Retargeting_Spring_202511,Paid Social,Meta,Retargeting,Conversion,UK,2025-11-02,2025-12-29,11750.0,GBP,Ended,Social
+CMP-0057,UK_PaidSocial_Prospecting_Lighting_202511,Paid Social,Meta,Prospecting,Customer Acquisition,UK,2025-11-08,2026-03-09,29650.0,GBP,Ended,Social
+CMP-0058,UK_Shopping_Shopping_Spring_202511,Shopping,Google Ads,Shopping,Sales,UK,2025-11-12,2026-03-09,21750.0,GBP,Ended,Performance
+CMP-0059,UK_PaidSocial_Prospecting_NewArrivals_202511,Paid Social,Meta,Prospecting,Customer Acquisition,UK,2025-11-16,2025-12-26,,GBP,Ended,Social
+CMP-0060,UK_Shopping_Shopping_Decor_202512,Shopping,Google Ads,Shopping,Sales,UK,2025-12-04,2026-03-09,18900.0,GBP,Ended,Performance
+CMP-0061,UK_PaidSearch_NonBrand_Summer_202512,Paid Search,Google Ads,Non-Brand,Customer Acquisition,UK,2025-12-09,2026-03-20,33000.0,GBP,Ended,Performance
+CMP-0062,US_PaidSearch_NonBrand_Spring_202512,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-12-18,2026-03-14,52950.0,USD,Ended,Performance
+CMP-0063,US_PaidSearch_NonBrand_Spring_202512,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2025-12-23,2026-03-27,11250.0,USD,Ended,Performance
+CMP-0064,US_Email_CRM_AllProducts_202512,Email,klaviyo,CRM,Retention,US,2025-12-28,2026-03-27,2250.0,USD,Ended,CRM
+CMP-0065,UK_PaidSocial_Prospecting_Bedding_202512,Paid Social,pinterest,Prospecting,Customer Acquisition,UK,2025-12-31,2026-04-07,6900.0,GBP,Ended,Social
+CMP-0066,UK_Video_Prospecting_Lighting_202601,Video,YouTube,Prospecting,Customer Acquisition,UK,2026-01-14,2026-05-27,5000.0,GBP,Ended,Brand
+CMP-0067,US_PaidSearch_NonBrand_Sale_202601,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2026-01-19,2026-05-30,19400.0,USD,Ended,Performance
+CMP-0068,US_Video_Prospecting_Decor_202601,YouTube Ads,YouTube,Prospecting,Customer Acquisition,US,2026-04-07,2026-01-21,5300.0,USD,Ended,Brand
+CMP-0069,US_PaidSocial_Prospecting_Bedding_202601,Paid Social,Meta Ads,Prospecting,Customer Acquisition,US,2026-01-25,2026-03-26,7550.0,USD,Ended,Social
+CMP-0070,UK_Shopping_Shopping_Storage_202601,Shopping,Google Ads,Shopping,Sales,UK,2026-01-26,2026-05-27,24500.0,GBP,Ended,Performance
+CMP-0071,US_PaidSearch_NonBrand_Bedding_202602,Paid Search,Microsoft Ads,Non-Brand,Customer Acquisition,US,2026-02-12,2026-05-21,3000.0,USD,Ended,Performance
+CMP-0072,UK_PaidSocial_Prospecting_AllProducts_202602,Paid Social,Pinterest,Prospecting,Customer Acquisition,UK,2026-02-12,2026-04-03,3850.0,GBP,Ended,Social
+CMP-0073,UK_PaidSocial_Retargeting_NewArrivals_202602,Paid Social,Meta,Retargeting,Conversion,UK,2026-02-19,2026-06-21,8050.0,GBP,Ended,Social
+CMP-0074,US_PaidSocial_Prospecting_Spring_202603,Paid Social,Meta,Prospecting,Customer Acquisition,US,2026-03-02,2026-05-19,6500.0,USD,Ended,Social
+CMP-0075,US_PaidSocial_Prospecting_Bedding_202603,Paid Social,Pinterest,Prospecting,Customer Acquisition,US,2026-03-02,2026-06-30,6700.0,USD,Ended,Social
+CMP-0076,US_PaidSearch_NonBrand_Sale_202603,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2026-03-03,2026-07-09,46750.0,USD,Ended,Performance
+CMP-0077,US_Shopping_Shopping_Sofas_202603,Shopping,Google Ads,Shopping,Sales,US,2026-03-23,2026-06-18,11850.0,USD,Ended,Performance
+CMP-0078,US_Display_Retargeting_NewArrivals_202603,display,Google Display Network,Retargeting,Conversion,US,2026-03-28,2026-07-30,12200.0,USD,Ended,Programmatic
+CMP-0079,UK_Email_CRM_Sofas_202604,email,Klaviyo,CRM,Retention,UK,2026-04-01,2026-07-30,1950.0,GBP,Ended,CRM
+CMP-0080,UK_Display_Prospecting_Rugs_202604,GDN,Google Display Network,Prospecting,Customer Acquisition,UK,2026-04-10,2026-07-29,9300.0,GBP,Ended,Programmatic
+CMP-0081,US_Display_Prospecting_NewArrivals_202604,Display,Google Display Network,Prospecting,Customer Acquisition,US,2026-04-13,2026-06-08,1900.0,USD,Ended,Programmatic
+CMP-0082,UK_Shopping_Shopping_Lighting_202604,Shopping,Google Ads,Shopping,Sales,UK,2026-04-19,2026-07-17,,GBP,Ended,Performance
+CMP-0083,US_PaidSearch_NonBrand_Rugs_202604,Paid Search,Google Ads,Non-Brand,Customer Acquisition,US,2026-04-21,2026-08-25,15700.0,USD,Ended,Performance
+CMP-0084,US_Shopping_Shopping_Sofas_202604,Shopping,Google Ads,Shopping,Sales,US,2026-04-25,2026-07-14,11400.0,USD,Ended,Performance
+CMP-0085,UK_PaidSearch_NonBrand_Summer_202604,Paid Search,Microsoft Ads,Non-Brand,Customer Acquisition,UK,2026-04-30,2026-06-11,2700.0,GBP,Ended,Performance
+CMP-0086,UK_Shopping_Shopping_Winter_202605,Google Shopping,Google Ads,Shopping,Sales,UK,2026-05-10,2026-07-04,4350.0,GBP,Ended,Performance
+CMP-0087,US_PaidSocial_Retargeting_Sale_202605,Paid Social,Meta,Retargeting,Conversion,US,2026-05-21,2026-08-18,4750.0,USD,Ended,Social
+CMP-0088,UK_PaidSearch_NonBrand_NewArrivals_202605,Paid Search,google ads,Non-Brand,Customer Acquisition,UK,2026-05-26,2026-08-22,9750.0,GBP,Ended,Performance
+CMP-0089,US_Video_Prospecting_Spring_202605,Video,YouTube Ads,Prospecting,Customer Acquisition,US,2026-05-27,2026-07-09,3000.0,USD,Ended,Brand
+CMP-0090,UK_PaidSocial_Prospecting_NewArrivals_202605,Paid Social,Meta,Prospecting,Customer Acquisition,UK,2026-05-30,2026-09-21,,GBP,Ended,Social
+CMP-0091,UK_PaidSocial_Prospecting_Lighting_202606,paid social,Meta,Prospecting,Customer Acquisition,UK,2026-06-01,2026-06-22,1050.0,GBP,Ended,Social
+CMP-0092,UK_Display_Prospecting_Decor_202606,Display,Google Display Network,Prospecting,Customer Acquisition,UK,2026-06-04,2026-10-16,54700.0,GBP,Ended,Programmatic
+CMP-0093,US_PaidSearch_NonBrand_Storage_202606,Paid Search,Microsoft Ads,Non-Brand,Customer Acquisition,US,2026-06-10,2026-07-24,3850.0,USD,Ended,Performance
+CMP-0094,US_PaidSocial_Prospecting_Winter_202606,Paid Social,facebook,Prospecting,Customer Acquisition,US,2026-06-23,2026-07-15,2800.0,USD,Ended,Social
+CMP-0095,US_PaidSocial_Prospecting_Bedding_202606,paid social,Meta,Prospecting,Customer Acquisition,US,2026-06-30,2026-10-11,,USD,Ended,Social
+CMP-0096,UK_Display_Prospecting_Storage_202607,Display,Google Display Network,Prospecting,Customer Acquisition,UK,2026-07-03,2026-10-31,8450.0,GBP,Active,Programmatic
+CMP-0097,UK_Video_Prospecting_Storage_202607,Video,YouTube,Prospecting,Customer Acquisition,UK,2026-07-07,2026-09-03,3200.0,GBP,Ended,Brand
+CMP-0098,US_PaidSocial_Prospecting_Decor_202607,Paid Social,Meta,Prospecting,Customer Acquisition,US,2026-07-11,2026-10-05,42950.0,USD,Ended,Social
+CMP-0099,US_Display_Prospecting_Sale_202607,Display,Google Display Network,Prospecting,Customer Acquisition,US,2026-07-21,2026-09-06,8950.0,USD,Ended,Programmatic
+CMP-0100,UK_PaidSocial_Prospecting_Summer_202607,Paid Social,Meta,Prospecting,Customer Acquisition,UK,2026-07-27,2026-10-31,24950.0,GBP,Active,Social
+CMP-0101,US_PaidSearch_NonBrand_Spring_202608,Paid Search,Microsoft Ads,Non-Brand,Customer Acquisition,US,2026-08-07,2026-10-20,7500.0,USD,Paused,Performance
+CMP-0102,US_PaidSearch_NonBrand_Winter_202608,PPC,Microsoft Ads,Non-Brand,Customer Acquisition,US,2026-08-16,2026-10-12,1950.0,USD,Ended,Performance
+CMP-0103,US_PaidSearch_Brand_Brand_202608,Paid Search,Google Ads,Brand,Brand Defence,US,2026-08-28,2026-10-31,8750.0,USD,Active,Performance
+CMP-0104,US_Video_Prospecting_Sale_202608,Video,YouTube,Prospecting,Customer Acquisition,US,2026-08-30,2026-10-31,8350.0,USD,Active,Brand
+CMP-0105,UK_Email_CRM_Decor_202609,Email,Klaviyo,CRM,Retention,UK,2026-09-06,2026-10-31,1150.0,GBP,Active,CRM
+CMP-0106,US_Display_Retargeting_NewArrivals_202609,Display,Google Display Network,Retargeting,Conversion,US,2026-09-14,2026-10-31,1750.0,USD,Active,Programmatic
+CMP-0107,UK_PaidSocial_Prospecting_Lighting_202609,Paid Social,Facebook Ads,Prospecting,Customer Acquisition,UK,2026-09-18,2026-10-31,3200.0,GBP,Active,Social
+CMP-0108,US_Video_Prospecting_Summer_202609,Video,YouTube,Prospecting,Customer Acquisition,US,2026-09-19,2026-10-31,4250.0,USD,Active,Brand
+CMP-0109,UK_PaidSearch_NonBrand_Sofas_202609,Paid Social,Meta,Prospecting,Customer Acquisition,US,2026-09-25,2026-10-31,7200.0,USD,Active,Social
+CMP-0110,UK_PaidSearch_NonBrand_Sofas_202609,Paid Search,Bing Ads,Non-Brand,Customer Acquisition,UK,2026-09-29,2026-10-31,2100.0,GBP,Active,Performance
+CMP-0111,US_PaidSocial_Prospecting_Lighting_202610,Paid Social,Meta,Prospecting,Customer Acquisition,US,2026-10-06,2026-10-31,3050.0,USD,Active,Social
