@@ -1,4 +1,4 @@
-# Lumora Home: Marketing Performance & Acquisition Efficiency Review
+# Lumut Home: Marketing Performance & Acquisition Efficiency Review
 
 A marketing analytics case study on 22 months of paid media, orders and CRM data for a UK/US home-furnishings retailer. The data is **synthetic** and was built to behave like real ad-platform and e-commerce exports, including the quality problems real exports have.
 
