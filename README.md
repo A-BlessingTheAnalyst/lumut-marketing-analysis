@@ -6,7 +6,7 @@ A marketing analytics case study on 22 months of paid media, orders and CRM data
 
 **Status:** complete. Audit, cleaning, SQL, analysis, findings and a 4-page Power BI dashboard.
 
-![Executive summary dashboard](dashboard/page1_executive_summary.png)
+dashboard/![Executive summary dashboard](dashboard/page1_executive_summary.png)
 
 ## The business problem
 
